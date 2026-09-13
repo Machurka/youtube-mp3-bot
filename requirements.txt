@@ -1,0 +1,6 @@
+python-telegram-bot>=22.0
+yt-dlp>=2024.1
+httpx>=0.27
+aiohttp>=3.9
+cachetools>=5.3
+python-dotenv>=1.0

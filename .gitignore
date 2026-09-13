@@ -1,0 +1,23 @@
+# Секреты и личные настройки
+.env
+
+# Виртуальное окружение
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Данные бота (генерируются при работе)
+downloads/
+logs/
+*.log
+cookies.txt
+tiktok_cookies.txt
+chats.json
+stats.json
+
+# Редакторы/IDE
+.vscode/
+.idea/
